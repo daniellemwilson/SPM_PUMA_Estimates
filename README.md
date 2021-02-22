@@ -1,7 +1,7 @@
 # Map Files 
 In this branch there are STATA ado and dta files for mapping all states in the United States. 
 
-The main do file for mapping is "Map.do", which follows the instructions provided by Robert Picard (picard@netbox.com) and Michael Stepner (michael.stepner@utoronto.ca). The do file produces a map of all U.S. states using cartesian coordinates. The main do file can be used to merge in data of interest that analyst would like to map. 
+The main do file for mapping is "Map.do", which follows the instructions provided by Robert Picard (picard@netbox.com) and Michael Stepner (michael.stepner@utoronto.ca). The do file produces a map of all U.S. states using cartesian coordinates. The main do file can be used to merge in data of interest that any analyst would like to map. 
 
 For convenience, the ado file for the "geo2xy" command, written by Picard and Stepner, which transforms latitude and longitude coordinates into cartesian ones is provided in this folder. For more details see: https://econpapers.repec.org/software/bocbocode/s457990.htm. 
 
