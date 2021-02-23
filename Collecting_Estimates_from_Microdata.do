@@ -53,19 +53,19 @@ INDEX
 Line Number 	Description
 ________________________________________________________________________________
 
-73 				STEP 1: Extract SPM state estimates from the CPS-ASEC. Will use 
-				a pooled data set (micro data from the CPS-ASEC from years 2016,
-				2017 & 2018. 
+73 		STEP 1: Extract SPM state estimates from the CPS-ASEC. Will use 
+		a pooled data set (micro data from the CPS-ASEC from years 2016,
+		2017 & 2018. 
 				
-143				STEP 2A: Extract SPM state estimates from the ACS (again using 
-				pooled data). 
+143		STEP 2A: Extract SPM state estimates from the ACS (again using 
+		pooled data). 
 				
-202				STEP 2B: Extract SPM PUMA estimates from the ACS (using pooled 
-				data). 
+202		STEP 2B: Extract SPM PUMA estimates from the ACS (using pooled 
+		data). 
 				
-277				STEP 3: Merge ACS state (STEP 2A) and PUMA (STEP 2B) estimates. 
+277		STEP 3: Merge ACS state (STEP 2A) and PUMA (STEP 2B) estimates. 
 				
-314				STEP 4: Merge ACS (STEP 3) and CPS-ASEC (STEP 1) estimates. 
+314		STEP 4: Merge ACS (STEP 3) and CPS-ASEC (STEP 1) estimates. 
 
 */ 
 
